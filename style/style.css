@@ -71,7 +71,7 @@ header .menu-btn{
       rgba(165, 89, 118, 0.919),
       rgba(29, 29, 39, 0.967)
     ),
-    url("/images/bannerimg.jpg");
+    url("images/bannerimg.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -177,7 +177,7 @@ header .menu-btn{
 /* about page */
 .about {
   background-color: rgb(255, 255, 255);
-  background-image: url(/images/Group.jpg);
+  background-image: url(images/Group.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -276,7 +276,7 @@ header .menu-btn{
 /* services */
 
 .servies {
-  background-image: url(/images/Group.jpg);
+  background-image: url(images/Group.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -447,7 +447,7 @@ header .menu-btn{
 .contact-action,
 .footer {
   padding: 50px 80px;
-  background-image: url(/images/Group22.png);
+  background-image: url(images/Group22.png);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -598,7 +598,7 @@ footer .wrap3 img {
       rgba(165, 89, 118, 0.919),
       rgba(29, 29, 39, 0.967)
     ),
-    url("/images/3d-rendering-house-model\ 1.jpg");
+    url("images/3d-rendering-house-model\ 1.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -705,7 +705,7 @@ footer .wrap3 img {
 /* about page */
 .about {
   background-color: rgb(255, 255, 255);
-  background-image: url(/images/Group.jpg);
+  background-image: url(images/Group.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -804,7 +804,7 @@ footer .wrap3 img {
 /* services */
 
 .servies {
-  background-image: url(/images/Group.jpg);
+  background-image: url(images/Group.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -978,7 +978,7 @@ grid-template-columns: 1fr 1fr ;
 .contact-action,
 .footer {
   padding: 50px 80px;
-  background-image: url(/images/Group22.png);
+  background-image: url(images/Group22.png);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
