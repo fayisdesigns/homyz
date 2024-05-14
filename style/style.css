@@ -71,7 +71,7 @@ header .menu-btn{
       rgba(165, 89, 118, 0.919),
       rgba(29, 29, 39, 0.967)
     ),
-    url("images/bannerimg.jpg");
+    url("../images/bannerimg.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
